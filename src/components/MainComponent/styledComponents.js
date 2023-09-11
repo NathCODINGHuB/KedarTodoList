@@ -2,7 +2,7 @@ import styled from 'styled-components'
 
 export const MainContainer = styled.div`
 min-height:100vh;
-background-color:#08535A;
+background-color:red;
 display:flex;
 flex-direction:column;
 
